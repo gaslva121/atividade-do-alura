@@ -1,1 +1,1 @@
-# atividade-do-alura
+# js-atividade do alura
